@@ -60,6 +60,7 @@ Here are the following tasks executed:
     - Test set starts in July 
     - Our first prediction is for July 1 (which equals to difference + last month sales) 
     - Note `result_dict['date'] = sales_dates[index+1]`
+    - RMSE: 29,665
 
 ---
 
